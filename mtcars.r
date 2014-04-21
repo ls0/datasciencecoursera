@@ -1,3 +1,4 @@
+# This was not apart of the call assignment, but added to show some of the graphics available in R.
 # ggplot2 examples using dataset mtcars
 # From Quick-R at http://www.statmethods.net/advgraphs/ggplot2.html
 # The individual plot can be run with an R console.
